@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Salsa', cursive;
+    background-color: antiquewhite;
+}
+img{
+    width: 100%;
+}
+#main{
+    font-size: 75px;
+    text-align: center;
+    letter-spacing: 5px;
+}
+.sub-heading{
+    font-size: 25px;
+    line-height: 80px;
+    text-align: center;
+}
